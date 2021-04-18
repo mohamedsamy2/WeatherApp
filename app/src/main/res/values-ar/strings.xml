@@ -1,0 +1,37 @@
+<resources>
+    <string name="sorrynotif">عذرا ، لم نتمكن من التحقق من تنبيه الطقس الخاص بك!</string>
+    <string name="stayconnected">يرجى البقاء على اتصال بالإنترنت للحصول على إنذارات في المستقبل</string>
+    <string name="app_name">الطقس</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">الرئيسية </string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Favorites">المفضلات </string>
+    <string name="Settings">الاعدادات </string>
+    <string name="Alarms">المنبهات</string>
+    <string name="Units">وحدات القياس</string>
+    <string name="Metric">متري (سلسيوس، ميتر/ثانية)</string>
+    <string name="Standard">قياسي (كيلفن ، متر / ثانية)</string>
+    <string name="Imperial">إمبراطوري (فهرنهايت ، ميل / ساعة)</string>
+    <string name="Save">حفظ</string>
+    <string name="locationSettings">استخدام الموقع الحالي</string>
+    <string name="Usedevicelocation">استخدم موقع الجهاز</string>
+    <string name="Location">الموقع</string>
+    <string name="UnitSystem">وحدة القياس </string>
+    <string name="Language">اللغة</string>
+    <string name="English">الإنجليزية</string>
+    <string name="Arabic">عربي</string>
+    <string name="WeatherLanguage">اللغة</string>
+    <string name="weatherSummary">احصل على تحديثات الطقس للموقع الحالي</string>
+    <string name="customWeatherSummary">اختر موقعًا مخصصًا</string>
+    <string name="add_favorite_location">أضف موقع المفضل</string>
+    <string name="Hourly">كل ساعة</string>
+    <string name="daily">يوميا</string>
+    <string name="Searchforalocation">ابحث عن موقع</string>
+    <string name="setDate">تحديد التاريخ</string>
+    <string name="feelslike">الشعور كآنها</string>
+    <string name="setTime">تحديد الوقت</string>
+    <string name="humidity">الرطوبة</string>
+    <string name="lastupdate">اخر تحديث</string>
+    <string name="pickdate">اختر التاريخ والوقت</string>
+</resources>

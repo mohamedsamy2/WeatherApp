@@ -1,0 +1,37 @@
+<resources>
+    <string name="lastupdate">Last updated</string>
+    <string name="humidity">Humidity</string>
+    <string name="feelslike">Feels like</string>
+    <string name="sorrynotif">Sorry, we could not check your weather alert!</string>
+    <string name="stayconnected">Please stay connected to the internet to get future alarms"</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Settings">Settings</string>
+    <string name="Alarms">Alarms</string>
+    <string name="Units">Units</string>
+    <string name="Metric">Metric (Celsius, meter/sec)</string>
+    <string name="Standard">Standard (Kelvin, meter/sec)</string>
+    <string name="Imperial">Imperial (Fahrenheit, miles/hour)</string>
+    <string name="Save">Save</string>
+    <string name="locationSettings">Use current location</string>
+    <string name="Usedevicelocation">Use device location</string>
+    <string name="Location">Location</string>
+    <string name="UnitSystem">Unit system</string>
+    <string name="Language">Language</string>
+    <string name="English">English</string>
+    <string name="Arabic">Arabic</string>
+    <string name="WeatherLanguage">Weather Language</string>
+    <string name="weatherSummary">Get weather updates for current location</string>
+    <string name="customWeatherSummary">Pick custom location</string>
+    <string name="add_favorite_location">Add favorite location</string>
+    <string name="Hourly">Hourly</string>
+    <string name="daily">Daily</string>
+    <string name="Searchforalocation">Search for a location</string>
+    <string name="setDate">Set date</string>
+    <string name="setTime">Set time</string>
+    <string name="pickdate">Pick date and time</string>
+</resources>
